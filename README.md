@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">About Me 🛸</h3>
+<h2 align="center">About Me 🛸</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="center">Tech Stack 🛠️</h3>
+<h2 align="center">Tech Stack 🛠️</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="center">GitHub Stats 📈</h3>
+<h2 align="center">GitHub Stats 📈</h2>
 
 ###
 
