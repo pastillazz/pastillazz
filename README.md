@@ -74,9 +74,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pastillazz&theme=tokyonight" height="200" alt="stats"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pastillazz&theme=tokyonight" height="200" alt="stats" />
+  <img src="https://github-stats-card-xi-ashy.vercel.app/api/og" height="200" alt="GitHub Stats Card" />
+</p>
 
 ###
 
