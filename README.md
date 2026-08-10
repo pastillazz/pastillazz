@@ -74,21 +74,13 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pastillazz&theme=tokyonight" height="200" alt="stats" />
-  <img src="https://github-stats-card-xi-ashy.vercel.app/api/og" height="200" alt="GitHub Stats Card" />
-</p>
+  <div align="center">
+  <img src="https://github-stats-card-xi-ashy.vercel.app/api/og?v=1" alt="GitHub Stats Card" />
+  </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pastillazz&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
-</div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastillazz&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false" height="300" alt="activity graph"  />
-</div>
 
-###
+
