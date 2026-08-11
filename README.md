@@ -32,15 +32,13 @@
 
 ###
 
-<p align="center">🎓 Software Engineering Student<br><br>👨‍💻 Backend Software Engineer building APIs and services that are meant to last<br><br>⚡ Focused on C# / .NET | ASP.NET CORE | POSTGRESQL<br><br>☕ Also shipping projects with Java & Spring Boot<br><br>⛩️ Anime fan (Naruto) & heavy lifting 🏋️</p>
-
-###
-
-<h2 align="center">Architecture & Practices 🧩</h2>
-
-###
-
-<p align="center">🏛️ <b>Clean Architecture</b> — clear boundaries, dependencies pointing inward<br><br>🧠 <b>Domain-Driven Design</b> — modelling the business, not the database<br><br>🔀 <b>CQRS</b> — reads and writes separated so intent stays explicit<br><br>🧪 Testable by design, containerised by default</p>
+<div align="center">
+  <p>🎓 Software Engineering Student</p>
+  <p>👨‍💻 Backend Software Engineer building scalable APIs & services</p>
+  <p>🏗️ Clean Architecture | Microservices | Distributed Systems</p>
+  <p>⚡ C# / .NET &nbsp;|&nbsp; ☕ Java / Spring Boot</p>
+  <p>⛩️ Naruto fan & heavy lifting 🏋️</p>
+</div>
 
 ###
 
@@ -49,23 +47,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apache kafka logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 </div>
 
 ###
@@ -73,6 +75,17 @@
 <h2 align="center">GitHub Stats 📈</h2>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=pastillazz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="github stats" />
+  <img src="https://streak-stats.demolab.com/?user=pastillazz&theme=tokyonight&hide_border=false" height="180" alt="github streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pastillazz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="top languages" />
+</div>
 
 ###
 
