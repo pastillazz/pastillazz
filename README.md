@@ -74,10 +74,6 @@
 
 ###
 
-  <div align="center">
-  <img src="https://github-stats-card-xi-ashy.vercel.app/api/og?v=1" alt="GitHub Stats Card" />
-  </div>
-
 ###
 
 
