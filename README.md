@@ -78,13 +78,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=pastillazz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180" alt="github stats" />
-  <img src="https://streak-stats.demolab.com/?user=pastillazz&theme=tokyonight&hide_border=false" height="180" alt="github streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pastillazz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pastillazz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" alt="top languages" />
+  <img src="https://streak-stats.demolab.com/?user=pastillazz&theme=tokyonight&hide_border=false" height="180" alt="github streak" />
 </div>
 
 ###
